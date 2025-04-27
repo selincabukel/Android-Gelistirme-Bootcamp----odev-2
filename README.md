@@ -15,7 +15,7 @@ Gün sayısına göre, mesai saatlerini de dikkate alarak maaş hesaplayan bir a
 
 🛠 Kullanılan Teknolojiler
 
-Kotlin
+Kotlin,
 Android Studio
 
 🎯 Neden Bu Ödev?
